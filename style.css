@@ -88,7 +88,7 @@ h3{
     flex-direction: column;
 }
 
-.container .image{
+.container > .image{
     /* width: 100%; */
     align-self: center;
 }
