@@ -55,7 +55,7 @@ h1 > a{
     text-decoration: none;
 
     /* font-size: 1.375rem; */
-    font-size: calc(1vw + 1rem);
+    font-size: calc(0.8vw + 1rem);
     color: var(--dark-gray);
 }
 
@@ -87,7 +87,7 @@ h3{
 
 .container{
     border: 1px solid var(--dark-gray);
-    width: 100%;
+    width: 80%;
     max-width: 336px;
     background: var(--card-color);
     padding: 15px;
